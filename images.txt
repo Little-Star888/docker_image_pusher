@@ -10,4 +10,4 @@
 #3.支持指定架构（以下的例子执行步骤为：1：提取平台信息：linux/arm64 → 转换为 linux_arm64_   2：提取镜像名称：xiaoyaliu/alist → 提取出 alist（镜像名） 3：检查是否有同名镜像：如果没有其他 alist 镜像，则不添## 加命名空间前缀 4：构建新镜像名：$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/linux_arm64_alist）
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.1.2-paddlepaddle3.0.0-gpu-cuda12.6-cudnn9.5-trt10.5
+ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.0.1-paddlepaddle3.0.0-gpu-cuda12.6-cudnn9.5-trt10.5
