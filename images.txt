@@ -10,5 +10,6 @@
 #3.支持指定架构（以下的例子执行步骤为：1：提取平台信息：linux/arm64 → 转换为 linux_arm64_   2：提取镜像名称：xiaoyaliu/alist → 提取出 alist（镜像名） 3：检查是否有同名镜像：如果没有其他 alist 镜像，则不添## 加命名空间前缀 4：构建新镜像名：$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/linux_arm64_alist）
 #--platform=linux/arm64 xiaoyaliu/alist
 
-nvidia/cuda:12.6.3-cudnn-devel-ubuntu22.04
-nvidia/cuda:12.6.3-cudnn-devel-ubuntu24.04
+nvcr.io/nvidia/tritonserver:24.10-py3
+ubuntu:22.04
+ubuntu:24.04
