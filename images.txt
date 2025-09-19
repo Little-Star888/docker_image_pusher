@@ -13,4 +13,4 @@
 #nvcr.io/nvidia/tritonserver:24.10-py3
 #ubuntu:22.04
 #ubuntu:24.04
-nacos/nacos-server:2.3.2
+nacos/nacos-server:v2.3.2
