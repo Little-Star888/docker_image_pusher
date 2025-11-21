@@ -21,4 +21,5 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.3.4-paddlepaddle3.2.0-gpu-cuda12.6-cudnn9.5
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.3.4-paddlepaddle3.2.0-gpu-cuda12.6-cudnn9.5-trt10.5
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.3.4-paddlepaddle3.2.0-gpu-cuda12.9-cudnn9.9
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-gpu
+#ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-gpu
+ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-cpu
