@@ -25,4 +25,5 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-cpu
 #ollama/ollama:latest
 #ollama/ollama:0.14.3-rc2
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
+vllm/vllm-openai:nightly-963dc0b865a3b6011fde7e0d938f86245dccbfac
