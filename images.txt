@@ -28,4 +28,5 @@
 #vllm/vllm-openai:latest
 #vllm/vllm-openai:nightly-963dc0b865a3b6011fde7e0d938f86245dccbfac
 #ollama/ollama:0.15.5-rc0
-ollama/ollama:0.15.6-rocm
+ollama/ollama:latest
+lmsysorg/sglang:latest
