@@ -30,4 +30,5 @@
 #ollama/ollama:latest
 #lmsysorg/sglang:latest
 #vllm/vllm-openai:cu130-nightly-92f5d0f070ec9e0ca5fe72af672138a9bbd1cb68
-ghcr.io/ggml-org/llama.cpp:full-cuda
+#ghcr.io/ggml-org/llama.cpp:full-cuda
+lmsysorg/sglang:nightly-dev-cu13-20260304-c18cff4f
