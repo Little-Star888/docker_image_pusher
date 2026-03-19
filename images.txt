@@ -39,4 +39,5 @@
 ##vllm/vllm-openai:cu130-nightly
 #nginx:latest
 #redis:7.0
-redis:8.0
+#redis:8.0
+redis:8.6.1
