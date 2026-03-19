@@ -33,4 +33,5 @@
 #lmsysorg/sglang:nightly-dev-cu13-20260304-c18cff4f
 #yanwk/comfyui-boot:cu130-slim
 #yanwk/comfyui-boot:cu128-slim
-#vllm/vllm-openai:cu130-nightly
+##vllm/vllm-openai:cu130-nightly
+nginx:latest
