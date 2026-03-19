@@ -38,4 +38,5 @@
 #yanwk/comfyui-boot:cu128-slim
 ##vllm/vllm-openai:cu130-nightly
 #nginx:latest
-redis:7.0
+#redis:7.0
+redis:8.0
