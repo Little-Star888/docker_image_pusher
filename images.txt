@@ -42,4 +42,5 @@
 #redis:8.0
 #redis:8.6.1
 #redis:8.0
-nginx:alpine
+#nginx:alpine
+nginx:1.27.1
