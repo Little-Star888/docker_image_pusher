@@ -28,4 +28,5 @@
 #vllm/vllm-openai:cu130-nightly
 #redis:8.6.1
 #nginx:alpine
-nginx:1.27.1
+#nginx:1.27.1
+redis:7.0
