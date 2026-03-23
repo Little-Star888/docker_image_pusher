@@ -1,19 +1,9 @@
 #1.直接拉取
-
-
-
-
 #nginx
-
-
-
 
 #2.支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-
-
-
 
 #3.支持指定架构（以下的例子执行步骤为：1：提取平台信息：linux/arm64 → 转换为 linux_arm64_   2：提取镜像名称：xiaoyaliu/alist → 提取出 alist（镜像名） 3：检查是否有同名镜像：如果没有其他 alist 镜像，则不添加命名空间前缀 4：构建新镜像名：$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/linux_arm64_alist）nginx:1.27.1
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -31,23 +21,10 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-gpu
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-cpu
 #ollama/ollama:latest
-#ollama/ollama:0.14.3-rc2
-#vllm/vllm-openai:latest
-#vllm/vllm-openai:nightly-963dc0b865a3b6011fde7e0d938f86245dccbfac
-#ollama/ollama:0.15.5-rc0
-#ollama/ollama:latest
 #lmsysorg/sglang:latest
-#vllm/vllm-openai:cu130-nightly-92f5d0f070ec9e0ca5fe72af672138a9bbd1cb68
 #ghcr.io/ggml-org/llama.cpp:full-cuda
-#lmsysorg/sglang:nightly-dev-cu13-20260304-c18cff4f
 #yanwk/comfyui-boot:cu130-slim
 #yanwk/comfyui-boot:cu128-slim
-##vllm/vllm-openai:cu130-nightly
-#nginx:latest
-#redis:7.0
-#redis:8.0
+vllm/vllm-openai:cu130-nightly
 #redis:8.6.1
-#redis:8.0
 #nginx:alpine
-#nginx:1.27.1
-nginx:1.27.1
