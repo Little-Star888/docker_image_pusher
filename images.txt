@@ -25,6 +25,7 @@
 #ghcr.io/ggml-org/llama.cpp:full-cuda
 #yanwk/comfyui-boot:cu130-slim
 #yanwk/comfyui-boot:cu128-slim
-vllm/vllm-openai:cu130-nightly
+#vllm/vllm-openai:cu130-nightly
 #redis:8.6.1
 #nginx:alpine
+nginx:1.27.1
