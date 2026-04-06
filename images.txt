@@ -19,11 +19,11 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.3.4-paddlepaddle3.2.0-gpu-cuda12.9-cudnn9.9
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-gpu
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-cpu
-#yanwk/comfyui-boot:cu130-slim
-vllm/vllm-openai:cu130-nightly
-vllm/vllm-openai:gemma4-cu130
-lmsysorg/sglang:dev-cu13
-lmsysorg/sglang:dev-cu13-gemma4
-ollama/ollama:latest
-ghcr.io/ggml-org/llama.cpp:full-cuda
+yanwk/comfyui-boot:cu130-slim
+#vllm/vllm-openai:cu130-nightly
+#vllm/vllm-openai:gemma4-cu130
+#lmsysorg/sglang:dev-cu13
+#lmsysorg/sglang:dev-cu13-gemma4
+#ollama/ollama:latest
+#ghcr.io/ggml-org/llama.cpp:full-cuda
 
