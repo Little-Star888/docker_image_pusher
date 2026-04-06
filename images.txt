@@ -9,6 +9,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #nvcr.io/nvidia/tritonserver:24.10-py3
 #ubuntu:24.04
+#redis:8.6.1
+#nginx:alpine
 #nacos/nacos-server:v2.3.2
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.2.1-paddlepaddle3.0.0-gpu-cuda12.6-cudnn9.5-trt10.5
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.3.4-paddlepaddle3.2.0-gpu-cuda11.8-cudnn8.9-trt8.6
@@ -18,10 +20,8 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-gpu
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-cpu
 #ollama/ollama:latest
-lmsysorg/sglang:latest
+#lmsysorg/sglang:latest
 #ghcr.io/ggml-org/llama.cpp:full-cuda
 #yanwk/comfyui-boot:cu130-slim
-#yanwk/comfyui-boot:cu128-slim
 #vllm/vllm-openai:cu130-nightly
-#redis:8.6.1
-#nginx:alpine
+vllm/vllm-openai:gemma4-cu130
