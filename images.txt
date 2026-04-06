@@ -21,7 +21,7 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-cpu
 #ollama/ollama:latest
 #lmsysorg/sglang:latest
-#ghcr.io/ggml-org/llama.cpp:full-cuda
+ghcr.io/ggml-org/llama.cpp:full-cuda
 #yanwk/comfyui-boot:cu130-slim
 #vllm/vllm-openai:cu130-nightly
 vllm/vllm-openai:gemma4-cu130
