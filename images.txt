@@ -23,5 +23,5 @@ yanwk/comfyui-boot:cu130-slim
 vllm/vllm-openai:cu130-nightly
 lmsysorg/sglang:dev-cu13
 ollama/ollama:latest
-#ghcr.io/ggml-org/llama.cpp:full-cuda
+ghcr.io/ggml-org/llama.cpp:full-cuda
 
