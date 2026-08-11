@@ -18,7 +18,7 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.3.4-paddlepaddle3.2.0-gpu-cuda12.9-cudnn9.9
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-gpu
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-cpu
-#yanwk/comfyui-boot:cu130-slim
+yanwk/comfyui-boot:cu130-slim
 #vllm/vllm-openai:cu129-nightly
 #lmsysorg/sglang:dev-cu13
 #ollama/ollama:latest
@@ -27,4 +27,4 @@
 #ultralytics/ultralytics:latest-export
 #nvidia/cuda:13.0.0-cudnn-runtime-ubuntu24.04
 #vllm/vllm-openai:unlimited-ocr-cu129
-wangx0102/minimax-h3-diffsynth-custom:2026.08
+#wangx0102/minimax-h3-diffsynth-custom:2026.08
