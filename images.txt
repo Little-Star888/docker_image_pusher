@@ -20,7 +20,7 @@
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/hps:paddlex3.3-cpu
 #yanwk/comfyui-boot:cu130-slim
 #vllm/vllm-openai:cu130-nightly
-#vllm/vllm-openai:cu129-nightly
+vllm/vllm-openai:cu129-nightly
 #vllm/vllm-openai:latest
 #vllm/vllm-openai@sha256:bbac761a6be466aeab065472830c6e59fc81067e73239b7103546f9cb96138d9
 #lmsysorg/sglang:dev-cu13
@@ -32,4 +32,4 @@
 #vllm/vllm-openai:unlimited-ocr-cu129
 #wangx0102/minimax-h3-diffsynth-custom:2026.08
 #openwebui/open-webui:slim
-yanwk/comfyui-boot:cu130-slim-v2
+#yanwk/comfyui-boot:cu130-slim-v2
