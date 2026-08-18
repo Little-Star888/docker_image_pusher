@@ -25,6 +25,7 @@ vllm/vllm-openai:qwen38-x86_64-cu130
 #vllm/vllm-openai:latest
 #vllm/vllm-openai@sha256:bbac761a6be466aeab065472830c6e59fc81067e73239b7103546f9cb96138d9
 #lmsysorg/sglang:dev-cu13
+lmsysorg/sglang:qwen38-27b
 #ollama/ollama:latest
 #ghcr.io/ggml-org/llama.cpp:full-cuda
 #ultralytics/ultralytics:latest
