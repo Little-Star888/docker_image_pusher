@@ -21,7 +21,8 @@
 #yanwk/comfyui-boot:cu130-slim
 #vllm/vllm-openai:cu130-nightly
 #vllm/vllm-openai:cu129-nightly
-vllm/vllm-openai:cu129-nightly-ba07e4a48fc951300d97eb506217dd530583dea3
+#vllm/vllm-openai:cu129-nightly-ba07e4a48fc951300d97eb506217dd530583dea3
+vllm/vllm-openai@sha256:4e9299fb10c93ba020fbbe3237f7b5998d96cfe9fae962319babc9d7796ea66e
 #vllm/vllm-openai:qwen38-x86_64-cu130
 #vllm/vllm-openai:latest
 #lmsysorg/sglang:dev-cu13
