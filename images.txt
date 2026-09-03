@@ -27,9 +27,12 @@
 #vllm/vllm-openai:latest
 #lmsysorg/sglang:dev-cu13
 #lmsysorg/sglang:qwen38-27b
-lovedheart/qwen38-flash-next:latest
+#lovedheart/qwen38-flash-next:latest
 #ollama/ollama:latest
-#ghcr.io/ggml-org/llama.cpp:full-cuda
+ghcr.io/ggml-org/llama.cpp:full-cuda
+ghcr.io/ggml-org/llama.cpp:full-cuda13
+ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:server-cuda13
 #ultralytics/ultralytics:latest
 #ultralytics/ultralytics:latest-export
 #nvidia/cuda:13.0.0-cudnn-runtime-ubuntu24.04
