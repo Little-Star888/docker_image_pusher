@@ -26,13 +26,12 @@
 #vllm/vllm-openai:qwen38-x86_64-cu130
 #vllm/vllm-openai:latest
 #lmsysorg/sglang:dev-cu13
-#lmsysorg/sglang:qwen38-27b
 #lovedheart/qwen38-flash-next:latest
 #ollama/ollama:latest
-ghcr.io/ggml-org/llama.cpp:full-cuda
-ghcr.io/ggml-org/llama.cpp:full-cuda13
-ghcr.io/ggml-org/llama.cpp:server-cuda
-ghcr.io/ggml-org/llama.cpp:server-cuda13
+#ghcr.io/ggml-org/llama.cpp:full-cuda
+#ghcr.io/ggml-org/llama.cpp:full-cuda13
+#ghcr.io/ggml-org/llama.cpp:server-cuda
+#ghcr.io/ggml-org/llama.cpp:server-cuda13
 #ultralytics/ultralytics:latest
 #ultralytics/ultralytics:latest-export
 #nvidia/cuda:13.0.0-cudnn-runtime-ubuntu24.04
@@ -40,3 +39,8 @@ ghcr.io/ggml-org/llama.cpp:server-cuda13
 #wangx0102/minimax-h3-diffsynth-custom:2026.08
 #openwebui/open-webui:slim
 #yanwk/comfyui-boot:cu130-slim-v2
+vllm/vllm-openai:v0.28.0
+vllm/vllm-openai:v0.27.1
+lmsysorg/sglang:v0.5.18
+lmsysorg/sglang:qwen38-27b
+nvidia/cuda:13.0.2-devel-ubuntu24.04
