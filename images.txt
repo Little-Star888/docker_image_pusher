@@ -39,8 +39,9 @@
 #wangx0102/minimax-h3-diffsynth-custom:2026.08
 #openwebui/open-webui:slim
 #yanwk/comfyui-boot:cu130-slim-v2
-vllm/vllm-openai:v0.28.0
-vllm/vllm-openai:v0.27.1
-lmsysorg/sglang:v0.5.18
-lmsysorg/sglang:qwen38-27b
-nvidia/cuda:13.0.2-devel-ubuntu24.04
+#vllm/vllm-openai:v0.28.0
+#vllm/vllm-openai:v0.27.1
+#lmsysorg/sglang:v0.5.18
+#lmsysorg/sglang:qwen38-27b
+#nvidia/cuda:13.0.2-devel-ubuntu24.04
+ghcr.io/gittensor-ai-lab/sparkinfer-qwen38:0.5.5
