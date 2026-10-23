@@ -50,4 +50,5 @@
 #nvidia/cuda:13.1.2-devel-ubuntu24.04
 #nvidia/cuda:13.1.2-runtime-ubuntu24.04
 #yanwk/comfyui-boot:cu130-megapak-pt211-20261019
-nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
+#nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
+neosun/cosyvoice:v1.3.2
